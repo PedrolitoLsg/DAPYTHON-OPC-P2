@@ -22,7 +22,7 @@ For a first use on a computer please follow this procedure in order to have the 
 To do this you wil need to first create a virtual environment, it can be either done automatically by your IDE or by entering in the console the following code:
 				 py -m venv env
 
-install requirements.txt
+install requirements.txt: pip install -r requirements.txt
 
 # USAGE
 To run the program call it, the two functions dl_images() and fill_csvs() automatically call the other functions used to extract data and structure the information to be delivered.
