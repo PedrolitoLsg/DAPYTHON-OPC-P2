@@ -31,7 +31,7 @@ Just run the program (takes around 20min) and it will create a folder named img 
 
 
 #Authors and Acknowledgemnt
-I, Pierre Lesage have been developing this code under the tutorage of Alexandre Iwanovski whom i'd like to thank for his guidance and advice. I would also like to extend my appreciation to the members of the discord group whose help was critical at certain point in the project.
+I, Pierre Lesage have been developing this code under the tutorage of Alexandre Iwanesko whom i'd like to thank for his guidance and advice. I would also like to extend my appreciation to the members of the discord group whose help was critical at certain point in the project.
 
 #License
 This has been developped as a study project and with that in mind can be used freely by whomever.
